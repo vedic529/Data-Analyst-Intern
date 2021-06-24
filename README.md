@@ -1,5 +1,5 @@
 # Data-Analyst-Intern
-All the shared material for the Data Analyst Intern, Batch A 25-MAY-2021 @ ShapeAI can be found here!!!
+All the shared material for the Data Analyst Intern, Batch A 25-MAY-2021 @ ShapeAI can be found in this repo!!!<br>
 Here you can find all the link required: 
 1. DSA Pre Recorded Lectures: https://www.youtube.com/playlist?list=PL7zl8TDRnbulJGA6Qr8TP7OPuempmvbZo
 2. DSA Class Recording (Raveet Sir): https://www.youtube.com/playlist?list=PL7zl8TDRnbukheasrVuDGoL8KsXPFeibm 
